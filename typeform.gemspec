@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "minitest"
   spec.add_development_dependency "vcr"
   spec.add_development_dependency "webmock"
-  spec.add_runtime_dependency "hashie", "~> 3.0.0"
+  spec.add_runtime_dependency "hashie", "~> 3.4.2"
   spec.add_runtime_dependency "httparty"
   spec.add_runtime_dependency "json"
 end
